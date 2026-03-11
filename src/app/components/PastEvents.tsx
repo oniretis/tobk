@@ -1099,11 +1099,11 @@ export default function PastEvents() {
                             )}
                           </div>
 
-                          <div className="flex-1 p-4">
+                          {/* <div className="flex-1 p-4">
                             <h3 className="text-md font-semibold">
                               {event.title}
                             </h3>
-                          </div>
+                          </div> */}
 
                           <div className="flex items-center pr-4">
                             <Button

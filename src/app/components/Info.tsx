@@ -16,7 +16,7 @@ function Info() {
             <span className="font-bold px-4"> Upcoming:</span>
             <div className="overflow-hidden whitespace-nowrap">
               <div className="inline-block animate-marquee">
-                <InfoPost />
+                {/* <InfoPost /> */}
               </div>
             </div>
           </div>
