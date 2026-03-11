@@ -7,10 +7,10 @@ function Stat() {
   const t = useTranslations("Body");
 
   const stats = [
-    { value: "$45,000+", label: t("m5"), subtext: "since 2022", icon: <DollarSign className="text-3xl text-blue-500 mb-2" /> },
-    { value: "$450,000+", label: t("m6"), subtext: "Since 2014", icon: <DollarSign className="text-3xl text-green-500 mb-2" /> },
-    { value: "400,000+", label: t("m7"), icon: <Users className="text-3xl text-purple-500 mb-2" /> },
-    { value: "13+", label: t("m8"), icon: <Star className="text-3xl text-yellow-400 mb-2" /> },
+    { value: "$125,000+", label: t("m5"), subtext: "since 2022", icon: <DollarSign className="text-3xl text-blue-500 mb-2" /> },
+    { value: "$750,000+", label: t("m6"), subtext: "Since 2014", icon: <DollarSign className="text-3xl text-green-500 mb-2" /> },
+    { value: "50,000+", label: t("m7"), icon: <Users className="text-3xl text-purple-500 mb-2" /> },
+    { value: "25+", label: t("m8"), icon: <Star className="text-3xl text-yellow-400 mb-2" /> },
   ];
 
   return (

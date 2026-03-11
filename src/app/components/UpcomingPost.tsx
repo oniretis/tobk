@@ -29,6 +29,76 @@ export const revalidate = 60;
 async function UpcomingPost() {
   const posts: Post[] = await getPosts();
   console.log(posts, "Upcoming posts");
+
+  // Add dummy upcoming events for demonstration
+  const dummyEvents: Post[] = [
+    {
+      _id: "dummy-1",
+      name: "Community Wellness Workshop",
+      title: "Community Wellness Workshop",
+      date: "2024-12-20",
+      link: "https://example.com/wellness-workshop",
+      slug: { current: "wellness-workshop" },
+      publishedAt: "2024-11-01T00:00:00Z",
+      excerpt: "Join us for a comprehensive wellness workshop focusing on mental and physical health.",
+      mainImage: null,
+      author: { name: "TOBK Team", image: null },
+      categories: [],
+      body: null,
+      galleryImage: null,
+      productImage: null,
+      partnersLogo: null,
+      price: 0,
+      tags: [],
+      blog: null,
+      store: null
+    },
+    {
+      _id: "dummy-2",
+      name: "Youth Mentorship Program Launch",
+      title: "Youth Mentorship Program Launch",
+      date: "2025-01-15",
+      link: "https://example.com/mentorship",
+      slug: { current: "mentorship-launch" },
+      publishedAt: "2024-11-01T00:00:00Z",
+      excerpt: "Launch of our new youth mentorship program connecting experienced mentors with young leaders.",
+      mainImage: null,
+      author: { name: "TOBK Team", image: null },
+      categories: [],
+      body: null,
+      galleryImage: null,
+      productImage: null,
+      partnersLogo: null,
+      price: 0,
+      tags: [],
+      blog: null,
+      store: null
+    },
+    {
+      _id: "dummy-3",
+      name: "Annual Community Fundraiser Gala",
+      title: "Annual Community Fundraiser Gala",
+      date: "2025-02-10",
+      link: "https://example.com/gala",
+      slug: { current: "fundraiser-gala" },
+      publishedAt: "2024-11-01T00:00:00Z",
+      excerpt: "Join us for an elegant evening of dining, entertainment, and community support.",
+      mainImage: null,
+      author: { name: "TOBK Team", image: null },
+      categories: [],
+      body: null,
+      galleryImage: null,
+      productImage: null,
+      partnersLogo: null,
+      price: 0,
+      tags: [],
+      blog: null,
+      store: null
+    }
+  ];
+
+  const allPosts = [...dummyEvents, ...posts];
+
   return (
     <div className="bg-white  antialiased">
       <div className="max-w-screen-xl px-4 py-8 mx-auto lg:px-6 sm:py-16 lg:py-24">
@@ -58,8 +128,8 @@ async function UpcomingPost() {
             </a>
           </div>
         </div>
-        {posts?.length > 0 &&
-          posts?.map((post) => <Upcoming key={post?._id} post={post} />)}
+        {allPosts?.length > 0 &&
+          allPosts?.map((post) => <Upcoming key={post?._id} post={post} />)}
       </div>
     </div>
   );

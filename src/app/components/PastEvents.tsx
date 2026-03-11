@@ -11,6 +11,21 @@ type Event = {
 // Updated events data structure with all years from 2024 to 2011
 const events: Record<string, Event[]> = {
   "2024": [
+    { date: "Dec 15", title: "Community Holiday Celebration - Annual TOBK Family Gathering" },
+    { date: "Dec 8", title: "Winter Wellness Workshop - Mental Health Awareness Session" },
+    { date: "Nov 28", title: "Thanksgiving Community Feast - Serving 500+ Families" },
+    { date: "Nov 11", title: "Veterans Day Honor Ceremony - Community Recognition Event" },
+    { date: "Oct 31", title: "Halloween Safe Zone - Family-Friendly Community Event" },
+    { date: "Oct 15", title: "Fall Harvest Festival - Local Farmers & Artisans Market" },
+    { date: "Sep 20", title: "Back to School Rally - Supplies Distribution for Youth" },
+    { date: "Aug 30", title: "Summer Finale Concert - Local Artists Showcase" },
+    { date: "Aug 15", title: "Community Health Fair - Free Screenings & Resources" },
+    { date: "Jul 4", title: "Independence Day Celebration - Family Picnic & Fireworks" },
+    { date: "Jun 19", title: "Juneteenth Freedom Festival - Cultural Heritage Event" },
+    { date: "May 12", title: "Mother's Day Brunch - Honoring Community Mothers" },
+    { date: "Apr 20", title: "Earth Day Clean-Up - Community Environmental Initiative" },
+    { date: "Mar 17", title: "St. Patrick's Community Parade - Cultural Celebration" },
+    { date: "Feb 14", title: "Valentine's Day Community Dinner - Senior Citizens Event" },
     { date: "Jan-Dec", title: "UWM Service learners and Interns" },
     { date: "Jan-Dec", title: "CRT/CAT meetings with GMF and Partners" },
     {
