@@ -52,7 +52,7 @@ const events: Record<string, Event[]> = {
     {
       date: "April 13",
       title:
-        "Health Fair and Old Eye Glasses, Blood Drive, Old prescriptions take back, and clothing exchange (Versita, Lion's Club, 5PNA, MPD, GFC, UWM)",
+        "Health Fair and Old Eye Glasses, Blood Drive, Old prescriptions take back, and clothing exchange (Versita, Lion's Club, tobk, MPD, GFC, UWM)",
     },
     {
       date: "April 27",
@@ -83,7 +83,7 @@ const events: Record<string, Event[]> = {
     {
       date: "June 2024-June 2025",
       title:
-        "Enhancing Youth and Community Well-Being: CHIP, AHEC, 5PNA, GMF, GFC",
+        "Enhancing Youth and Community Well-Being: CHIP, AHEC, tobk, GMF, GFC",
     },
     { date: "Juneteenth", title: "Marketing-CCHD" },
     { date: "June", title: "Board Retreat and outing- sponsor CCHD" },
@@ -104,7 +104,7 @@ const events: Record<string, Event[]> = {
     {
       date: "Jan-Dec",
       title:
-        "Turner Hall presentations and participation: 5PNA and partner Bay Bridge",
+        "Turner Hall presentations and participation: tobk and partner Bay Bridge",
     },
   ],
   "2023": [
@@ -164,7 +164,7 @@ const events: Record<string, Event[]> = {
     {
       date: "2022",
       title:
-        "Mental Health Mondays- 5pna and HOKP with 60 students topics: setting first month, Oct to current Bully Identification, Prevention, and Deflation of Bully Power",
+        "Mental Health Mondays- tobk and HOKP with 60 students topics: setting first month, Oct to current Bully Identification, Prevention, and Deflation of Bully Power",
     },
     { date: "December 10 2022", title: "Music Therapy sponsored by CCHD" },
     {
@@ -213,7 +213,7 @@ const events: Record<string, Event[]> = {
     },
     { date: "10/3/22", title: "Rountable 5 strategic sesssions" },
     { date: "Nov 2022 and Jan 2022", title: "Redress Movement" },
-    { date: "2022", title: "5pna Business Development mts" },
+    { date: "2022", title: "tobk Business Development mts" },
     { date: "2022 to current", title: "Sister district participation" },
     { date: "2022", title: "Joan Garry turning board into fundraisers" },
     {
@@ -405,7 +405,7 @@ const events: Record<string, Event[]> = {
     },
     { date: "2nd and 4th Saturdays", title: "Sister Circle- recurrent" },
     { date: "12-2", title: "Mental Health Monday with HOKP- recurrent" },
-    { date: "2021", title: "Pathway to Joyful Habit Change (5pna and CCHD)" },
+    { date: "2021", title: "Pathway to Joyful Habit Change (tobk and CCHD)" },
     {
       date: "Aug 12 at 11am",
       title: 'Upcoming Book Read "Evicted"-Intro (other dates coming)',
@@ -414,7 +414,7 @@ const events: Record<string, Event[]> = {
     {
       date: "August 2021",
       title:
-        "Upcoming membership workshop on art (5Pts arts gallery, CCHD,5PNA)",
+        "Upcoming membership workshop on art (5Pts arts gallery, CCHD,tobk)",
     },
     { date: "Sept 2021", title: "UWM service learners starting" },
   ],
@@ -524,7 +524,7 @@ const events: Record<string, Event[]> = {
     { date: "12/8/20", title: "PHS" },
     { date: "12/9/20", title: "CEDC" },
     { date: "12/9/20", title: "Soc grant tracy j brown" },
-    { date: "12/12/20", title: "5pna" },
+    { date: "12/12/20", title: "tobk" },
     { date: "12/12/20", title: "Claww sister talk" },
     { date: "12/27/20", title: "Dr White and sy leader to leader strategies" },
     { date: "12/30/20", title: "Tribe live" },
@@ -583,11 +583,11 @@ const events: Record<string, Event[]> = {
     },
     {
       date: "2019",
-      title: "Food support oureach to 5PNA through Grace Fellowship",
+      title: "Food support oureach to tobk through Grace Fellowship",
     },
     {
       date: "2019",
-      title: "YNLBP- 5PNA youth participation sponsored by CCHD",
+      title: "YNLBP- tobk youth participation sponsored by CCHD",
     },
     {
       date: "June 9, 2019",
@@ -612,12 +612,12 @@ const events: Record<string, Event[]> = {
     {
       date: "July 27, 2019",
       title:
-        "Musical Learning exploration with artist V. Michael Mckay 5PNA participation sponsored by CCHD",
+        "Musical Learning exploration with artist V. Michael Mckay tobk participation sponsored by CCHD",
     },
     {
       date: "Aug 10, 2019",
       title:
-        "Back to school, peace promotion, health and art resource, lifelong learning lead organizer Hallowed Baptist, 5PNA, sponsors: CCHD, residents, and participating organizations",
+        "Back to school, peace promotion, health and art resource, lifelong learning lead organizer Hallowed Baptist, tobk, sponsors: CCHD, residents, and participating organizations",
     },
     {
       date: "Aug 24, 2019",
@@ -645,7 +645,7 @@ const events: Record<string, Event[]> = {
     {
       date: "Oct 12, 2019",
       title:
-        "Pieces Play (learning excursion youth and adults) sponsors: Focus on Families and 5pna participation CCHD",
+        "Pieces Play (learning excursion youth and adults) sponsors: Focus on Families and tobk participation CCHD",
     },
     {
       date: "Oct 22, 2019",
@@ -655,7 +655,7 @@ const events: Record<string, Event[]> = {
     {
       date: "Nov 22 &23, 2019",
       title:
-        "Women's Empowerment Workshop-Talitha Cumi (varied topics)- 5pna participation individuals and CCHD : VFTW ministries",
+        "Women's Empowerment Workshop-Talitha Cumi (varied topics)- tobk participation individuals and CCHD : VFTW ministries",
     },
     { date: "2019-2020", title: "Bucks Charity ticket program" },
     {
@@ -682,7 +682,7 @@ const events: Record<string, Event[]> = {
     {
       date: "Feb 16-17, 2018",
       title:
-        "24 hour locked in for learning with Westside, 5PNA participants sponsored by CCHD",
+        "24 hour locked in for learning with Westside, tobk participants sponsored by CCHD",
     },
     {
       date: "March 7, 2018",
@@ -754,12 +754,12 @@ const events: Record<string, Event[]> = {
     {
       date: "August 4, 2018",
       title:
-        "Yesterday's Negro League Baseball Players Bridging the Gaps exhibition, learning of history and passing on traditions, and meet and greet of Living Legends. 5PNA participation sponsored by CCHD",
+        "Yesterday's Negro League Baseball Players Bridging the Gaps exhibition, learning of history and passing on traditions, and meet and greet of Living Legends. tobk participation sponsored by CCHD",
     },
     {
       date: "August 11, 2018",
       title:
-        "Collaboration with Hallowed Baptist Church VBS and 5PNA to sponsor the Five Points Community Party. Stress Management class taught by Rachel Campbell making aromatherapy candles-class Sponsored by CCHD (40-80 individuals), repurposing and tranforming projects sponsored by GMF-Mary Nohl, and designing sponsored by MAB taught by Evelyn Patricia Terry. Various games run by 5PNA members and residents and members of Hallowed Baptist. HBC will also have fun and bookbags donated by PNC bank",
+        "Collaboration with Hallowed Baptist Church VBS and tobk to sponsor the Five Points Community Party. Stress Management class taught by Rachel Campbell making aromatherapy candles-class Sponsored by CCHD (40-80 individuals), repurposing and tranforming projects sponsored by GMF-Mary Nohl, and designing sponsored by MAB taught by Evelyn Patricia Terry. Various games run by tobk members and residents and members of Hallowed Baptist. HBC will also have fun and bookbags donated by PNC bank",
     },
     { date: "2019", title: "Intergenerational Variety Show-TBD for 2019" },
     {
@@ -769,7 +769,7 @@ const events: Record<string, Event[]> = {
     {
       date: "2018",
       title:
-        "Marketplace 53212- at the 5 Points Juncture. Look for the 5PNA table with Rachel Campbell (wellness), Churchill Caruthers Jr. (several informational packets and sign up sheets for 5PNA activities and specialized service calls for attendees benefits), Kathleen Sinclair (employment opportunities and tax information)",
+        "Marketplace 53212- at the 5 Points Juncture. Look for the tobk table with Rachel Campbell (wellness), Churchill Caruthers Jr. (several informational packets and sign up sheets for tobk activities and specialized service calls for attendees benefits), Kathleen Sinclair (employment opportunities and tax information)",
     },
     {
       date: "Monday, August 27th",
@@ -914,7 +914,7 @@ const events: Record<string, Event[]> = {
       title: "Leadership Training at Let's Get Motivated with Les Brown",
     },
     { date: "July- October 2016", title: "Pop Up Lot and Activities" },
-    { date: "July 2016", title: "5pna Leadership planning and training" },
+    { date: "July 2016", title: "tobk Leadership planning and training" },
     { date: "Aug 2016", title: "Block Party with Hallowed Baptist at Lot" },
     {
       date: "October 2016",
@@ -952,7 +952,7 @@ const events: Record<string, Event[]> = {
     {
       date: "Nov 2015 to 2016 and beyond",
       title:
-        "Planning for 2016 5pna-Harambee and community police listening sessions",
+        "Planning for 2016 tobk-Harambee and community police listening sessions",
     },
     { date: "Spring and Fall 2015", title: "UWM Service Learners" },
   ],

@@ -8,7 +8,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 
 export const metadata: Metadata = {
-  title: "5PNA",
+  title: "tobk",
   description: "Welcome to the future",
 };
 

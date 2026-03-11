@@ -10,7 +10,7 @@ function Team() {
               Meet the Board
             </h2>
             <p className="text-lg text-gray-500 text-center">
-              5PNA has a number of office positions including.
+              tobk has a number of office positions including.
             </p>
           </div>
           <div className="flex flex-wrap justify-center gap-y-14 max-w-3xl mx-auto lg:max-w-full ">

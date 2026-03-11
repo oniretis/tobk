@@ -4,7 +4,7 @@ function Blog() {
   return (
     <div className="">
       <iframe
-        src="https://5pnamil.blogspot.com/"
+        src="https://tobkmil.blogspot.com/"
         className="w-screen md:w-full h-screen "
         title="Blog"
       ></iframe>

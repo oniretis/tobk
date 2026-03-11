@@ -107,7 +107,7 @@ export default function CommunityPartners() {
                 Community Partners
               </CardTitle>
               <CardDescription className="text-lg">
-                5PNA is always looking for community partners and groups with
+                tobk is always looking for community partners and groups with
                 whom to collaborate. This includes businesses, industry,
                 organizations, non-profits, agencies, government and other
                 neighborhood clubs and associations.
@@ -145,7 +145,7 @@ export default function CommunityPartners() {
                 Monthly Speakers/Presenters
               </CardTitle>
               <CardDescription className="text-lg">
-                Each month 5PNA invites a number of people, including public
+                Each month tobk invites a number of people, including public
                 officials, business leaders, community organizers, agencies and
                 organizations to provide value information for community
                 residents.

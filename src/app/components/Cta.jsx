@@ -9,7 +9,7 @@ function Cta() {
   const handleDownloadEn = () => {
     const link = document.createElement("a");
     link.href = "/eng.pdf";
-    link.download = "5PNA English byLaws";
+    link.download = "tobk English byLaws";
     link.click();
   };
   return (
@@ -99,7 +99,7 @@ function Cta() {
                   </svg>
                 </div>
                 <h3 className="py-5 text-white text-2xl font-bold xl:text-xl">
-                  5PNA BYLAWS
+                  tobk BYLAWS
                 </h3>
                 <p className="text-base font-normal text-white mb-8">
                   {t("titleBody5")}
