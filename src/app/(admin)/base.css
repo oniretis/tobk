@@ -1,0 +1,30 @@
+@tailwind base;
+
+@font-face {
+  font-family: "Mona Sans";
+  font-weight: 200 900;
+  font-display: block;
+  font-style: normal;
+  font-stretch: 75% 125%;
+  src: url("../../../public/fonts/GeneralSans-Variable.ttf");
+}
+
+
+/* Add this CSS to your stylesheets or style tag */
+
+.team-scroll-container {
+  display: flex;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+}
+
+.team-member {
+  flex: 0 0 100%;
+  scroll-snap-align: start;
+}
+
+
+
+
+
