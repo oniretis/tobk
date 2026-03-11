@@ -87,7 +87,7 @@ function page() {
                         />
                       </svg>
                       <h5 className="text-black text-base font-medium leading-6 ml-5">
-                        2126 North 23ʳᵈ Street, Milwaukee, WI 53205
+                        2126 North 23rd Street, Milwaukee, WI 53205
                       </h5>
                     </a>
                   </div>
@@ -100,7 +100,7 @@ function page() {
               Send Us A Message
             </h2>
             <p className="text-gray-600 mb-8">
-              We're here to help and answer any questions you may have about our services and programs.
+              We&apos;re here to help and answer any questions you may have about our services and programs.
             </p>
 
             <form className="space-y-6">
