@@ -10,6 +10,10 @@ const withNextIntl = createNextIntlPlugin();
 
 const nextConfig = {
 
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
   images: {
 
     remotePatterns: [

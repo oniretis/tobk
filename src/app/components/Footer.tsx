@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
                     </div>
                   </form>
                   <div className="pt-10 pb-10 block mb-1.5 text-sm font-semibold text-white">
-                    <span className="block font-bold mb-2">The True "Our Brothers' Keepers" Holy Community Foundation, Inc. "International)</span>
+                    <span className="block font-bold mb-2">The True &quot;Our Brothers&apos; Keepers&quot; Holy Community Foundation, Inc. &quot;International)</span>
                     <span className="block">2126 North 23ʳᵈ Street</span>
                     <span>Milwaukee   WI  53205</span>
                   </div>

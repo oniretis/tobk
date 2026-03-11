@@ -202,7 +202,7 @@ function page() {
 
             <p className="text-gray-600 mb-8">
 
-              We're here to help and answer any questions you may have about our services and programs.
+              We&apos;re here to help and answer any questions you may have about our services and programs.
 
             </p>
 

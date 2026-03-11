@@ -23,7 +23,7 @@ const AboutUs = () => {
                   <span className="text-[#4d082d]">INTERNATIONAL HOLY COMMUNITY</span>
                 </h1>
                 <p className="mb-6 text-lg font-semibold text-[#4d082d] italic">
-                  "WE ARE IN THE BUSINESS OF INSTILLING HOPE AND CHANGING LIVES."
+                  &quot;WE ARE IN THE BUSINESS OF INSTILLING HOPE AND CHANGING LIVES.&quot;
                 </p>
                 <p className="mb-6 text-base font-normal text-neutral-700 leading-relaxed">
                   The True Our Brothers Keepers, Inc. is a faith-based organization that is in the community to put true love into action. Since understanding promotes hope, and hope promotes change, we are a source of hope and a force for change.
@@ -144,7 +144,7 @@ const AboutUs = () => {
                 <div className="bg-gradient-to-r from-[#4d082d] to-[#6a0d3d] p-8 rounded-lg text-white">
                   <h4 className="text-xl font-bold mb-4">Our Motto</h4>
                   <p className="text-2xl font-light italic text-center">
-                    "Living for the Sake Of Others"
+                    &quot;Living for the Sake Of Others&quot;
                   </p>
                 </div>
               </div>

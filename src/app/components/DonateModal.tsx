@@ -62,7 +62,7 @@ export function DonateModal() {
             <CardContent className="space-y-6">
               <div className="text-center">
                 <p className="text-xl font-medium text-[#4d082d] mb-2">
-                  "WE ARE IN THE BUSINESS OF INSTILLING HOPE AND CHANGING LIVES"
+                  &quot;WE ARE IN THE BUSINESS OF INSTILLING HOPE AND CHANGING LIVES&quot;
                 </p>
                 <p className="text-lg">
                   Together, we can make a difference in our community and beyond!
@@ -151,7 +151,7 @@ export function DonateModal() {
               </Button>
               <p className="text-sm text-gray-600 text-center">
                 Every donation, no matter the size, helps us continue our mission of
-                "Living for the Sake of Others"
+                &quot;Living for the Sake of Others&quot;
               </p>
             </CardFooter>
           </Card>
